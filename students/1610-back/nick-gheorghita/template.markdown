@@ -40,6 +40,19 @@
 
 (Intro)
 
+#### Complete Me
+  https://github.com/njgheorghita/complete_me
+  https://github.com/turingschool/curriculum/blob/master/source/projects/complete_me.markdown
+  
+  Tested, designed, and built a trie data structure that stores all the words in the usr dictionary. 
+    - Suggests likely words based on given sub-string
+    - Inserts custom words into trie structure
+    - Delectes given words from trie structure
+    - Weighs selected words favorably for returned suggestions
+    - Used Shoes to build a gui
+    
+    
+
 #### (Project Name)
 
 * [GitHub URL]()
